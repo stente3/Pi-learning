@@ -1,0 +1,6 @@
+# Credenciales y datos de autenticación
+/agent/auth.json
+
+# Estado local generado por Pi (caché/registro de modelos e historial)
+/agent/models-store.json
+/agent/sessions/
